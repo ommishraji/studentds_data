@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759422759332",
+    "project_id": "kudoswareassignment-c5d97",
+    "storage_bucket": "kudoswareassignment-c5d97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759422759332:android:c623ac29fd5e02b7cd1131",
+        "android_client_info": {
+          "package_name": "kudosware.com.kudosware_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1w2WRcMlf63ZAMcKh3WuAZeINhMwQ4AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
